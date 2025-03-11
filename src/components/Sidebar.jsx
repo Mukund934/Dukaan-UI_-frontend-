@@ -480,7 +480,7 @@ function Sidebar() {
 								<p className="text-xs font-normal">
 									Availble Credits
 								</p>
-								<p className="text-base font-medium">222.10</p>
+								<p className="text-base font-medium">872.10</p>
 							</div>
 						</a>
 					</div>
