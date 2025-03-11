@@ -50,7 +50,7 @@ function BlueCard({ title, orderCount, amount }) {
 			</div>
 			<div className="text-sm bg-blue-900 flex justify-between py-2 px-6">
 				<div>Next payout date:</div>
-				<div>Today, 04:00 PM</div>
+				<div>Today, 09:00 PM</div>
 			</div>
 		</div>
 	);

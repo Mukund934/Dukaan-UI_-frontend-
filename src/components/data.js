@@ -1,173 +1,107 @@
 export const orderData = [
-    // keep decreasing the date in the data and use random staus between failed processing and successful
-    {
-        id: 281209,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "Today, 08:45 PM",
-        amount: "₹1,125.00" 
-    },
-    {
-        id: 281208,
-        status: "Processing",
-        transactionID: "131634495747",
-        refundDate: "Yesterday, 8:45 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281207,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "12 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281206,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "12 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281205,
-        status: "Processing",
-        transactionID: "131634495747",
-        refundDate: "12 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281204,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "12 Jul 2023, 1:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281203,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "11 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281202,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "11 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281201,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "11 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281200,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "10 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281199,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "10 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281198,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "10 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281197,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "9 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281196,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "9 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281195,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "9 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281194,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "8 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281193,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "8 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281192,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "8 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281191,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "7 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281190,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "7 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281189,
-        status: "Failed",
-        transactionID: "131634495747",
-        refundDate: "7 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281188,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "6 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281187,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "6 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-    {
-        id: 281186,
-        status: "Successful",
-        transactionID: "131634495747",
-        refundDate: "6 Jul 2023, 3:00 PM",
-        amount: "₹1,125.00"
-    },
-
-    
-]
+	{
+		id: 501234,
+		status: "Successful",
+		transactionID: "942857163920",
+		refundDate: "Today, 08:45 PM",
+		amount: "₹1,130.00",
+	},
+	{
+		id: 501235,
+		status: "Processing",
+		transactionID: "583920174562",
+		refundDate: "Yesterday, 07:30 PM",
+		amount: "₹1,115.50",
+	},
+	{
+		id: 501236,
+		status: "Failed",
+		transactionID: "719384256107",
+		refundDate: "13 Aug 2023, 02:15 PM",
+		amount: "₹1,120.25",
+	},
+	{
+		id: 501237,
+		status: "Successful",
+		transactionID: "826475930182",
+		refundDate: "12 Aug 2023, 05:00 PM",
+		amount: "₹1,135.75",
+	},
+	{
+		id: 501238,
+		status: "Processing",
+		transactionID: "294857601234",
+		refundDate: "11 Aug 2023, 11:45 AM",
+		amount: "₹1,110.00",
+	},
+	{
+		id: 501239,
+		status: "Failed",
+		transactionID: "457829013467",
+		refundDate: "10 Aug 2023, 03:30 PM",
+		amount: "₹1,125.50",
+	},
+	{
+		id: 501240,
+		status: "Successful",
+		transactionID: "675849302156",
+		refundDate: "09 Aug 2023, 04:00 PM",
+		amount: "₹1,140.00",
+	},
+	{
+		id: 501241,
+		status: "Successful",
+		transactionID: "839104756382",
+		refundDate: "08 Aug 2023, 01:00 PM",
+		amount: "₹1,118.75",
+	},
+	{
+		id: 501242,
+		status: "Failed",
+		transactionID: "207584963120",
+		refundDate: "07 Aug 2023, 06:30 PM",
+		amount: "₹1,105.25",
+	},
+	{
+		id: 501243,
+		status: "Processing",
+		transactionID: "361029485730",
+		refundDate: "06 Aug 2023, 12:00 PM",
+		amount: "₹1,122.00",
+	},
+	{
+		id: 501244,
+		status: "Successful",
+		transactionID: "589374120865",
+		refundDate: "05 Aug 2023, 03:15 PM",
+		amount: "₹1,137.00",
+	},
+	{
+		id: 501245,
+		status: "Failed",
+		transactionID: "748392016547",
+		refundDate: "04 Aug 2023, 10:45 AM",
+		amount: "₹1,112.50",
+	},
+	{
+		id: 501246,
+		status: "Processing",
+		transactionID: "902174635820",
+		refundDate: "03 Aug 2023, 08:30 PM",
+		amount: "₹1,128.00",
+	},
+	{
+		id: 501247,
+		status: "Successful",
+		transactionID: "310587426953",
+		refundDate: "02 Aug 2023, 02:00 PM",
+		amount: "₹1,120.75",
+	},
+	{
+		id: 501248,
+		status: "Failed",
+		transactionID: "467039182054",
+		refundDate: "01 Aug 2023, 04:45 PM",
+		amount: "₹1,115.00",
+	},
+];
