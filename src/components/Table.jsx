@@ -1,5 +1,5 @@
 import React from "react";
-import Tabletop from "./Tabletop";
+import Tabletop from "./TableTop";
 import { orderData } from "./data";
 
 function Table() {
